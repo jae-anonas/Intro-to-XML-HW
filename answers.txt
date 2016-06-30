@@ -1,0 +1,13 @@
+Answers:
+
+1. 8 (or 9 including <?xml version="1.0" encoding="utf-8"?>
+2. "http://schemas.android.com/apk/res/android"
+    package="generalassembly.yuliyakaleda.supportdifferentdevices"
+3. manifest is parent to the child element application which 
+   is parent to a service element and 2 activity elements, one
+   of which is parent to intent-filter which is parent to an
+   action and a category element
+4. <?xml version="1.0" encoding="utf-8"?>
+   <action android:name="android.intent.action.MAIN" />
+   <category android:name="android.intent.category.LAUNCHER" />
+   <activity android:name=".InformationActivity" />

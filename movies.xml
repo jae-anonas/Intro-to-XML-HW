@@ -1,0 +1,39 @@
+<movie_collection xmlns:collection="http://movies.com">
+	<collection:movie id="mov1" title="Hot Fuzz" description="2nd of the Cornetto trilogy, amazing">
+		<collection:showtimes>
+			<collection:showtime date="07-01-2016" time="10:00"/>
+			<collection:showtime date="07-01-2016" time="12:00"/>
+			<collection:showtime date="07-01-2016" time="2:00"/>
+		</collection:showtimes>
+		<collection:director name="Somebody"/>
+		<collection:producer name="Somebody"/>
+	</collection:movie>
+
+	<collection:movie id="mov2" title="Religulous" description="This will make you question your faith in any god">
+		<collection:showtimes>
+			<collection:showtime date="07-01-2016" time="10:00"/>
+			<collection:showtime date="07-01-2016" time="12:00"/>
+			<collection:showtime date="07-01-2016" time="2:00"/>
+		</collection:showtimes>
+		<collection:host name="Somebody"/>
+		<collection:producer name="Somebody"/>
+	</collection:movie>
+	<collection:movie id="mov3" title="REC" description="This movie will make you shit your pants">
+		<collection:showtimes>
+			<collection:showtime date="07-01-2016" time="10:00"/>
+			<collection:showtime date="07-01-2016" time="12:00"/>
+			<collection:showtime date="07-01-2016" time="2:00"/>
+		</collection:showtimes>
+		<collection:director name="Somebody"/>
+		<collection:producer name="Somebody"/>
+	</collection:movie>
+	<collection:movie id="mov4" title="Friday" description="Chris Tucker's gonna get you high today.. Coz it's Friday, you ain't got no job, and you ain't got shit to do">
+		<collection:showtimes>
+			<collection:showtime date="07-01-2016" time="10:00"/>
+			<collection:showtime date="07-01-2016" time="12:00"/>
+			<collection:showtime date="07-01-2016" time="2:00"/>
+		</collection:showtimes>
+		<collection:director name="Somebody"/>
+		<collection:producer name="Somebody"/>
+	</collection:movie>
+</movie_collection>
